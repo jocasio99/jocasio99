@@ -3,7 +3,7 @@
 My name is Josh and I am a Cyber Security student who wants to do lots of cool stuff and share my journey. I am a bit of a jack of all trades, I do some programming, pc repair/building, and networking.<br><br>
 🔭 I’m currently working on my first game using Godot and GDScript<br>🌱 I’m currently learning Godot, GDScript, and Python on my own. For school, I am currently studying for the CompTIA Network+<br>
 🚀 I plan on creating a keylogger, a SIEM, a password strength checker, a Caesar cipher, and more! I also plan on learning Unreal Engine!<br>
-⚡ Fun fact: Python is my favorite right now, even though I have previously done some work with HTML, CSS, Java, and C++,
+⚡ Fun fact: Python is my favorite right now, even though I have previously done some work with HTML, CSS, Java, and C++
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
