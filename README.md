@@ -24,13 +24,6 @@ My name is Josh and I am a Cyber Security student who wants to do lots of cool s
 # 📊 GitHub Stats:
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jocasio99&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocasio99&layout=compact&theme=github_dark)
- 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jocasio99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
-
 
 ## 💰 You can help me by Donating
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jocasio) 
