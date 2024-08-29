@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Josh and I am a Cyber Security student who wants to do lots of cool stuff.
+My name is Josh and I am a Cyber Security student who wants to do lots of cool stuff and share my journey.
 
 - 🔭 I’m currently working on my first game using Godot and GDScript
 - 🌱 I’m currently learning Godot, GDScript, and Python on my own. For school, I am currently studying for the CompTIA Network+.
