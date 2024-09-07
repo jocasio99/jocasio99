@@ -1,8 +1,9 @@
 # 💫 About Me:
 ### Hello there 👋
 My name is Josh and I am a Cyber Security student who wants to do lots of cool stuff and share my journey. I am a bit of a jack of all trades, I do some programming, pc repair/building, and networking.<br><br>
-🔭 I’m currently working on my first game using Godot and GDScript<br>🌱 I’m currently learning Godot, GDScript, and Python on my own. For school, I am currently studying for the CompTIA Network+<br>
-🚀 I plan on creating a keylogger, a SIEM, a password strength checker, a Caesar cipher, and more! I also plan on learning Unreal Engine!<br>
+🔭 I’m currently working on my first game using Godot and my first keylogger<br>
+🌱 I’m currently learning Godot, GDScript, and Python on my own. For school, I am currently studying for the CompTIA Network+<br>
+🚀 I plan on creating a SIEM, a password strength checker, a Caesar cipher, and more! I also plan on learning Unreal Engine!<br>
 ⚡ Fun fact: Python is my favorite right now, even though I have previously done some work with HTML, CSS, Java, and C++
 
 # 💻 Tech Stack:
@@ -22,11 +23,16 @@ My name is Josh and I am a Cyber Security student who wants to do lots of cool s
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 # 📊 GitHub Stats:
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jocasio99&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+ ![GitHub stats](https://gh-readme-profile.vercel.app/api?username=Jocasio99&theme=github_dark&border_color=e4e4e4)
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocasio99&layout=compact&theme=github_dark)
 
+# 🏆 GitHub Trophies:
+ ![](https://github-profile-trophy.vercel.app/?username=jocasio99&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
+
 ## 💰 You can help me by Donating
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/jocasio) 
+[![Buy me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jocasio)
+[![Github Sponsors](https://img.shields.io/badge/GitHub-Sponsor-blue?labelColor=302d41&color=f5bde6&logo=github&logoColor=d9e0ee&style=for-the-badge)](https://github.com/sponsors/jocasio99)
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
