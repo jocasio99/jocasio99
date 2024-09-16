@@ -6,6 +6,9 @@ My name is Josh and I am a Cyber Security student who wants to do lots of cool s
 🚀 I plan on creating a SIEM, a password strength checker, a Caesar cipher, and more! I also plan on learning Unreal Engine!<br>
 ⚡ Fun fact: Python is my favorite right now, even though I have previously done some work with HTML, CSS, Java, and C++
 
+![](https://komarev.com/ghpvc/?username=jocasio99&color=blue)
+
+
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -18,7 +21,7 @@ My name is Josh and I am a Cyber Security student who wants to do lots of cool s
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 <br> 
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 <br> 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -28,7 +31,6 @@ My name is Josh and I am a Cyber Security student who wants to do lots of cool s
 
 # 🏆 GitHub Trophies:
  ![](https://github-profile-trophy.vercel.app/?username=jocasio99&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
-
 
 ## 💰 You can help me by Donating
 [![Buy me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jocasio)
