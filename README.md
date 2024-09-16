@@ -6,7 +6,7 @@ My name is Josh and I am a Cyber Security student who wants to do lots of cool s
 🚀 I plan on creating a SIEM, a password strength checker, a Caesar cipher, and more! I also plan on learning Unreal Engine!<br>
 ⚡ Fun fact: Python is my favorite right now, even though I have previously done some work with HTML, CSS, Java, and C++
 
-![](https://komarev.com/ghpvc/?username=jocasio99&color=blue)
+![](https://komarev.com/ghpvc/?username=jocasio99&color=blue&abbreviated=true&style=for-the-badge)
 
 
 # 💻 Tech Stack:
