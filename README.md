@@ -1,9 +1,9 @@
 # 💫 About Me:
 ### Hello there 👋
-My name is Josh and I am a Cyber Security student who wants to do lots of cool stuff and share my journey. I am a bit of a jack of all trades, I do some programming, pc repair/building, and networking.<br><br>
-🔭 I’m currently working on my first game using Godot and my first keylogger<br>
-🌱 I’m currently learning Godot, GDScript, and Python on my own. For school, I am currently studying for the CompTIA Network+<br>
-🚀 I plan on creating a SIEM, a password strength checker, a Caesar cipher, and more! I also plan on learning Unreal Engine!<br>
+My name is Josh and I am a Cyber Security student who wants to do lots of cool stuff and share my journey. I do some programming, pc repair/building, and beginner pentesting.<br><br>
+🔭 I’m currently working on my first game using Godot, a keylogger using Python, and a password cracker using Python<br>
+🌱 I’m currently learning Godot, Kotlin, and Python on my own. For school, I am currently studying for the CompTIA Network+<br>
+🚀 I plan on creating a password cracker, a password strength checker, a Caesar cipher, and more! I also plan on learning Unreal Engine!<br>
 ⚡ Fun fact: Python is my favorite right now, even though I have previously done some work with HTML, CSS, Java, and C++
 
 ![](https://komarev.com/ghpvc/?username=jocasio99&color=blue&abbreviated=true&style=for-the-badge)
