@@ -1,8 +1,8 @@
 # 💫 About Me:
 ### Hello there 👋
-My name is Josh and I am a Cyber Security student who wants to do lots of cool stuff and share my journey. I do some programming, pc repair/building, game development, Blender and beginner-level pen-testing.<br><br>
+My name is Josh and I'm a student who wants to do lots of cool stuff and share my journey. I do some programming, pc repair/building, game development, and Blender.<br><br>
 🔭 I’m currently working a little bit of each of my interests!<br>
-🌱 I’m currently learning Godot, Blender, Unreal Engine, and Python on my own <br>
+🌱 I’m currently learning Godot, Blender, and Unreal Engine on my own <br>
 🚀 I plan on creating some fun projects using python, Godot, and Unreal Engine!<br>
 ⚡ Fun fact: Python is my favorite right now, even though I have previously done some work with HTML, CSS, C#, Java, and C++
 
@@ -25,8 +25,6 @@ My name is Josh and I am a Cyber Security student who wants to do lots of cool s
 <br>
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 <br>
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
