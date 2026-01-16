@@ -1,9 +1,9 @@
 # 💫 About Me:
 ### Hello there 👋
-My name is Josh and I'm a student who wants to do lots of cool stuff and share my journey. I do some programming, pc repair/building, game development, and Blender.<br><br>
+My name is Josh and I'm a student who wants to do lots of cool stuff and share my journey. I do some programming, pc repair/building, game development, video editing and 3D modelling and animating.<br><br>
 🔭 I’m currently working a little bit of each of my interests!<br>
-🌱 I’m currently learning Godot, Blender, and Unreal Engine on my own <br>
-🚀 I plan on creating some fun projects using python, Godot, and Unreal Engine!<br>
+🌱 I’m currently learning Godot and Blender on my own <br>
+🚀 I plan on creating some fun projects !<br>
 ⚡ Fun fact: Python is my favorite right now, even though I have previously done some work with HTML, CSS, C#, Java, and C++
 
 ![](https://komarev.com/ghpvc/?username=jocasio99&color=blue&abbreviated=true&style=for-the-badge)
@@ -27,20 +27,14 @@ My name is Josh and I'm a student who wants to do lots of cool stuff and share m
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-<br> 
-![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jocasio99&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=jocasio99&theme=one_dark_pro&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jocasio99&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jocasio99&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
+![](https://nirzak-streak-stats.vercel.app/?user=jocasio99&theme=gotham&hide_border=true)<br/>
+
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
@@ -58,4 +52,8 @@ Here are some ideas to get you started:
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/https://ko-fi.com/jocasio) 
 [![Github Sponsors](https://img.shields.io/badge/GitHub-Sponsor-blue?labelColor=302d41&color=f5bde6&logo=github&logoColor=d9e0ee&style=for-the-badge)](https://github.com/sponsors/jocasio99)
 
+
+![](https://github-readme-stats.vercel.app/api?username=jocasio99&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=jocasio99&theme=one_dark_pro&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jocasio99&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
