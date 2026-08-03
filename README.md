@@ -1,23 +1,23 @@
 # 💫 About Me:
 ### Hello there 👋
-My name is Josh and I'm a student who wants to do lots of cool stuff and share my journey. I do some programming, pc repair/building, game development, video editing and 3D modelling and animating.<br><br>
-🔭 I’m currently working a little bit of each of my interests!<br>
-🌱 I’m currently learning Godot and Blender on my own <br>
-🚀 I plan on creating some fun projects !<br>
-⚡ Fun fact: Python is my favorite right now, even though I have previously done some work with HTML, CSS, C#, Java, and C++
+My name is Josh and I'm a Game Designer who wants to make lots of cool stuff and share my journey.<br><br>
+🔭 I’m currently learning Game Development in Godot!<br>
+🌱 I’m currently learning Godot and Game Design on my own through tutorials, books, and videos. <br>
+🚀 I plan on creating some fun projects of various genres I enjoy personally, and eventually learn Unreal Engine!<br>
+⚡ Fun fact: I also do video editing and 3D modelling and animating.
 
 ![](https://komarev.com/ghpvc/?username=jocasio99&color=blue&abbreviated=true&style=for-the-badge)
 
 
 # 💻 Tech Stack:
+![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 <br>
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
@@ -32,9 +32,9 @@ My name is Josh and I'm a student who wants to do lots of cool stuff and share m
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 
 # 📊 GitHub Stats:
-
-![](https://nirzak-streak-stats.vercel.app/?user=jocasio99&theme=gotham&hide_border=true)<br/>
-
+![](https://streak-stats.demolab.com/?user=jocasio99&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api?username=jocasio99&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=jocasio99&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   
