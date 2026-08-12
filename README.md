@@ -1,10 +1,10 @@
 # 💫 About Me:
 ### Hello there 👋
 My name is Josh and I'm a Game Designer who wants to make lots of cool stuff and share my journey.<br><br>
-🔭 I’m currently learning Game Development in Godot!<br>
+🔭 I’m currently learning Game Development in Godot by doing the 20 Game Challenge!<br>
 🌱 I’m currently learning Godot and Game Design on my own through tutorials, books, and videos. <br>
 🚀 I plan on creating some fun projects of various genres I enjoy personally, and eventually learn Unreal Engine!<br>
-⚡ Fun fact: I also do video editing and 3D modelling and animating.
+⚡ Fun fact: I also do video editing, 3D modelling, and animating.
 
 ![](https://komarev.com/ghpvc/?username=jocasio99&color=blue&abbreviated=true&style=for-the-badge)
 
